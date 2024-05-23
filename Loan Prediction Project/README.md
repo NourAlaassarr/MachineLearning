@@ -10,8 +10,7 @@ This project aims to predict loan amounts and loan approval status based on vari
 4. [Usage](#usage)
 5. [Models](#models)
 6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Introduction
 In this project, we utilize machine learning algorithms to predict loan amounts and loan approval status based on customer information such as income, education, credit history, etc. The project involves data preprocessing, model training, and evaluation.
