@@ -10,8 +10,7 @@ This project demonstrates the use of K-Nearest Neighbors (KNN) classification al
 4. [Usage](#usage)
 5. [Functions](#functions)
 6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Introduction
 The objective of this project is to build a KNN classifier from scratch and use it to predict whether a person has diabetes based on several medical attributes. The dataset used is the diabetes dataset, and the features are normalized using Min-Max Scaling before applying the KNN algorithm.
