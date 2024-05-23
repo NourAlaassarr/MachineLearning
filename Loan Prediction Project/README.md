@@ -44,5 +44,11 @@ Two types of models are implemented in this project:
 ## Results
 The performance of the models is evaluated using the following metrics:
 - R^2 Score for Linear Regression
+
+  ## Author
+
+- [Mohamed Abobakr](https://github.com/bakar10)
+- [Nour Ayman](https://github.com/NourAlaassarr)
+
 - Mean Squared Error for Linear Regression
 - Accuracy for Logistic Regression
