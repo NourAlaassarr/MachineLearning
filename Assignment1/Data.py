@@ -191,26 +191,4 @@ print("\nPredicted Loan Status:")
 print(new_loan_status_pred)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
