@@ -39,7 +39,7 @@ The Loan Prediction project predicts whether a loan application will be approved
 
 The Decision Tree project demonstrates the use of Decision Trees for classification tasks. It includes examples such as the Banknote Authentication and Loan Prediction projects.
 
-[View Code](https://github.com/bakar10/MachineLearning/tree/main/Decision%20Tree%20Classification%20on%20Drug%20Dataset)
+[View Project](https://github.com/bakar10/MachineLearning/tree/main/Decision%20Tree%20Classification%20on%20Drug%20Dataset)
 
 ## How to Use
 
