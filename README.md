@@ -15,7 +15,7 @@ Welcome to the Machine Learning Projects repository! This repository contains se
 
 The Banknote Authentication project focuses on classifying banknotes as genuine or forged based on features such as variance, skewness, curtosis, and entropy. The classification task is performed using Decision Trees and K-Nearest Neighbors (KNN) algorithms.
 
-[View Code](banknote_authentication.py)
+[View Code](https://github.com/bakar10/MachineLearning/blob/main/Banknote%20Authentication%20and%20KNN%20Classification/README.md)
 
 ## Diabetes Prediction
 
