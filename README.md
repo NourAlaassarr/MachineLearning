@@ -50,7 +50,7 @@ git clone https://github.com/your-username/machine-learning-projects.git
 cd machine-learning-projects
 ```
 
-2. Navigate to the project directory you're interested in (e.g., `banknote-authentication`, `diabetes-prediction`, `mnist-classification`, `loan-prediction`, `decision-tree`).
+2. Navigate to the project directory you're interested in (e.g., `Banknote Authentication and KNN Classification`, `KNN Classification on Diabetes Dataset`, `MNIST Dataset Analysis`, `Loan Prediction Project`, `Decision Tree Classification on Drug Dataset`).
 
 3. Run the Python script for the respective project.
 
