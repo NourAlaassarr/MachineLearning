@@ -13,7 +13,7 @@ This project demonstrates the use of K-Nearest Neighbors (KNN) classification al
 
 
 ## Introduction
-The objective of this project is to build a KNN classifier from scratch and use it to predict whether a person has diabetes based on several medical attributes. The dataset used is the diabetes dataset, and the features are normalized using Min-Max Scaling before applying the KNN algorithm.
+The objective of this project is to build a KNN classifier from scratch and use it to predict whether a person has diabetes based on several medical attributes. The dataset used is the diabetes dataset, and the features are normalized using Min-Max Scaling before applying the KNN algorithm.to break ties when using the KNN algorithm, this project implements distance-weighted voting. The principle behind this approach is that closer neighbors should have a stronger influence on the classification outcome than more distant ones. The weight assigned to a neighbor is the inverse of its distance to the test instance.
 
 ## Dataset
 The dataset used in this project is `diabetes.csv`, which contains the following columns:
