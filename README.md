@@ -75,7 +75,7 @@ You can install these libraries using pip:
 ```bash
 pip install pandas numpy scikit-learn matplotlib tensorflow
 ```
-  ## Author
+  ## Authors
 
 - [Mohamed Abobakr](https://github.com/bakar10)
 - [Nour Ayman](https://github.com/NourAlaassarr)
