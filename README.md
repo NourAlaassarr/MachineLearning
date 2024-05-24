@@ -9,37 +9,37 @@ Welcome to the Machine Learning Projects repository! This repository contains se
 2. [Diabetes Prediction](#diabetes-prediction)
 3. [MNIST Handwritten Digits Classification](#mnist-handwritten-digits-classification)
 4. [Loan Prediction](#loan-prediction)
-5. [Decision Tree](#decision-tree)
+5. [Decision Tree Classification on Drug Dataset](#decision-tree)
 
 ## Banknote Authentication
 
 The Banknote Authentication project focuses on classifying banknotes as genuine or forged based on features such as variance, skewness, curtosis, and entropy. The classification task is performed using Decision Trees and K-Nearest Neighbors (KNN) algorithms.
 
-[View Code](https://github.com/bakar10/MachineLearning/blob/main/Banknote%20Authentication%20and%20KNN%20Classification/README.md)
+[View Project](https://github.com/bakar10/MachineLearning/blob/main/Banknote%20Authentication%20and%20KNN%20Classification)
 
 ## Diabetes Prediction
 
 The Diabetes Prediction project aims to predict whether a patient has diabetes based on diagnostic measures such as glucose level, blood pressure, skin thickness, etc. The prediction is made using the K-Nearest Neighbors (KNN) algorithm.
 
-[View Code](diabetes_prediction.py)
+[View Project](https://github.com/bakar10/MachineLearning/tree/main/KNN%20Classification%20on%20Diabetes%20Dataset)
 
 ## MNIST Handwritten Digits Classification
 
 The MNIST Handwritten Digits Classification project involves classifying handwritten digits (0-9) from the famous MNIST dataset. Two different approaches are used: Decision Trees and Artificial Neural Networks (ANNs).
 
-[View Code](mnist_classification.py)
+[View Project](https://github.com/bakar10/MachineLearning/tree/main/MNIST%20Dataset%20Analysis)
 
 ## Loan Prediction
 
 The Loan Prediction project predicts whether a loan application will be approved or not based on various features such as applicant income, loan amount, loan term, etc. The classification task is performed using Decision Trees.
 
-[View Code](loan_prediction.py)
+[View Project](https://github.com/bakar10/MachineLearning/tree/main/Loan%20Prediction%20Project)
 
-## Decision Tree
+## Decision Tree Classification on Drug Dataset
 
 The Decision Tree project demonstrates the use of Decision Trees for classification tasks. It includes examples such as the Banknote Authentication and Loan Prediction projects.
 
-[View Code](decision_tree.py)
+[View Code](https://github.com/bakar10/MachineLearning/tree/main/Decision%20Tree%20Classification%20on%20Drug%20Dataset)
 
 ## How to Use
 
@@ -75,4 +75,7 @@ You can install these libraries using pip:
 ```bash
 pip install pandas numpy scikit-learn matplotlib tensorflow
 ```
+  ## Author
 
+- [Mohamed Abobakr](https://github.com/bakar10)
+- [Nour Ayman](https://github.com/NourAlaassarr)
